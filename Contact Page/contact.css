@@ -1,5 +1,7 @@
 /*contact css */
-
+html {
+    overflow-x: hidden;
+    }
 /*  set size */
 .site-wrapper {
     max-width: 1200px; /* Set a maximum width for the site wrapper */
